@@ -46,13 +46,13 @@ nav a:hover{
 
 html{
     h1{
-        color:rgb(121, 161, 136);
+        color:rgb(114, 153, 129);
     }
     h3{
-        color:rgb(132, 165, 90);
+        color:rgb(118, 138, 92);
     }
     p{
-        color:rgb(252, 243, 206);
+        color:rgb(131, 168, 109);
     }
 }
 
@@ -63,4 +63,24 @@ html{
     padding: 10px 30px;
     border-radius: 30px ;
     box-shadow: 3px 3px 5px 2px rgb(139, 139, 139);
+}
+
+.about{
+    height: 800px;
+    background-color: rgb(98, 143, 100);
+}
+
+.containerAbout{
+    background-color: beige;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    height: 100%;
+    padding-top: 50px;
+    box-shadow: 3px 3px 5px 2px;
+    color: rgb(0, 0, 0);
+}
+
+.containerAbout img{
+    height: 200px;
 }
